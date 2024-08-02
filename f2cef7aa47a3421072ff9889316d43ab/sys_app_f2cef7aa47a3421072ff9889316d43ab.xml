@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>fbceb36247a3421072ff9889316d43db</logo>
+        <menu/>
+        <name>Client's Order</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1233104_client_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Any potential client can interact with the and request a a print/brand product or service.</short_description>
+        <source>x_1233104_client_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 17:05:28</sys_created_on>
+        <sys_id>f2cef7aa47a3421072ff9889316d43ab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 17:05:32</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=f2cef7aa47a3421072ff9889316d43ab"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>Tunmid Brandmark only PNG@0.5x-8.png</file_name>
+        <hash>a9291423dbd012fe9703a6587288184e38b32a7c333671462acb92678912efcf</hash>
+        <image_height>168</image_height>
+        <image_width>163</image_width>
+        <size_bytes>2442</size_bytes>
+        <size_compressed>2439</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 17:05:32</sys_created_on>
+        <sys_id>fbceb36247a3421072ff9889316d43db</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 17:05:32</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>f2cef7aa47a3421072ff9889316d43ab</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="Tunmid Brandmark only PNG@0.5x-8.png" sys_id="fbceb36247a3421072ff9889316d43db">fbceb36247a3421072ff9889316d43db</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 17:05:32</sys_created_on>
+        <sys_id>3fceb36247a3421072ff9889316d43db</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>ZVZ5ONSJH0Zuw44lTG6j0JZjityMwSBXzorNNYMymFEkhOTM1zG5cuS+yuQmRzlnphnHkCs5J+OWYjOkY6199nn22ef3e573et7nfZ7Pv58kW2skP+8pXhYWFn5zM2O7Yy87ZjX3iWPtDK7FHZuXraWDieVN3BCd7xgiIsL/6D/4b/Nv/z+D/9/8t/w31wjD/r4tfcfO2p6lZ2cnGhxtaNijOgoulhl1V6W7y6TTscX16VjbelsZpa3C4ykP1uzabRYWjqS/yerv+/QbCwt3qbkx3CG0YLtgI2RJGxTNLyuuowSeij+IGtDiGMx+FxqXG15jcLuS/0MNitp4Ln85g/k8VFcqWZ/hTBzYh6Mbvrukb4a5ODoG+872j3TfP3K3Ixjwv+xyXNv3yNrPiAieFAl5lTMhveRyAJ1B2N1nw95dL2CVTntzuB2N7t5h/dETTRgpjA70mcvzn2vx7yzdRQZVXCLvNr77NWRt0ylnqSxrh/idbdlJyGfGojLcPKlI71WK7dsPS+5J4ToC7aFCH6wF4pMjidE62D8RN6NU8ZlcgvWabcs8s46zrVyMorEhe7kF4wsqrTwLWgYC/aqXd0qrMj0NMeOWXQaJ/fXmZYMdg4ZmeQ8G1HsHn0vExg5F49pUoG6Onnc/2QGIswU4TfL78IRt1wpANhEn1iV34w4iw2TJMalH0zVmsYlkYWmheEGgqgfePlBpnIWbZofLER2/vbf0BsUYJ/LMX/PWlYLKaHni0Tw2EIVBK1V5pOsy1eYBPt1eRt5oKPMqzjSIJ4Zgd+/y7/mcvJ7ybhJjh8O6yrWlLEWHdiVFharQGF2trvAcTnwF6XqVkJhguYtpu/KY3KasiSn7BuxuDoFT9vycn0rvl+qAt6fVgijPECJE11PhezOdYXID/pn4hGLcmndU1BvBd78hhcuq+TBxeETqIb844AtiWp82ralmSmXhRzShiMcV80Pa6OZfJSHUIF5EUCAC1ZtfkYyeMywvnZJWByIkNa5IrTU6HX2KNio0nejITcUrYLJJclc73P8cY3x2af4k99xt+HIzgILd8l8dx6jCSNpONm2Zfbesfr4uxPNTOzda6N0Re6pRWuFrItUBlfl1e8CyOGF+fZG3SfTl3sz+ea/GSmjVqPI7ELBsDUmbeXlBRl/J4ZHna5Rzy3b7O5ceYhuXn99D+emTpMY4wvQdT095Z6z4cCYFBvv0sOIeBZmMx/fcKaOOyYBLn7VUGgw0rMMuaJia9PkSQzjIoEQRUxH5kya1F0O2s1i/iZC1FO2+tVungMebMHxXxa5ln2nfh5eRbd7nfWSqNY6aQLBMic4RDVMNuTiqd409VFawyVIY2taajkf0QVcUdhigXp+yEttIneKdJg1F0ER+VzEbgpauGPmsuxZ0Ig1tRJWVDVY95yCLRLSczNsKHmjCbI9WMMVHM/Q74R8SVjro3ZuvANikSd0ieyr8orP1amMD3CXPwusnFnw/3lekFfN2RcMh9XGDaPZh+d0He1Rg9cKNG63nXiiXNvTWMK1+sR7cMjoy4UYqtJ4+K5ZPSwB7gK5gdfoOhGuUQZ4NFy/tm49mbk46hAigWebX9qGJ+2wQJibvh+1iy1BodjyEz8vLRGK2Pf7k0hc1sdSp35/M9y64rg6HQmro53ejX72t45lh1FcEipCTPA4BjpH1SQrWkqaZe23LU2aCUSj4+JQahn+7b5p76VWJQIbghw3/abbJOLV1kq6RRoSgZPZFFEp+7ibdpe/X+ALgDkmVMW42HR4EG1OM9AmQbEukUSk5ujViL2kDFMnOFNwWARg26OHu9eHxW+9hWlibcusPqzCiinBQNc7ay02wxqQzt/IO0T/QQ/1iVz0juBgHgRE/pNXGjMzpSgUFgG1y7pHQIXR+EDS3SKF+HdY/elfno0GwFXeyoA6YJStlTFv1HhDqSpoPDiaV1qWGswJ54zmKAAAcdurGJb7bHwGAPnW5K1iyNaMQL6i9yzNzifv6eRSqXPnLx82Yp5ot0swm4MRtvxvy/No7uWl4xwdFRzpIECUCEP0wXn9arLEhPQ3X7w2J4URR1HIxQFAZyzyJVwnu7RU7pTkdH71aGL2ekYJ7WAqF6/zOSqaRuCtXE749ch+hkTQzLIcP3v7U0xFlXIGpH505Ui1MarhiOaw72/1MXQjafEQftlm33N3P0wXoakb9HPKMhZrj/I2T4lgs16RqpJAzYXad6yyMD8ou1Z78nN8eJWAa4gsPaG+LU4JxQVHoW4Eo0XIKCCCcN9vuiEanuAFDPaGXnuPTzOqoZ/S8vJygt6B7SilVPrEa2j/VOYvNivYUtKBESUS/hI4h44qT+TB3+BR5yiwETJ2feQYp2ZgJBecHL3a46KhBt55cPCiDy9w92G4Ghqr8DyLrhdJq407yMQruVW8pRWnwSPkXKaojg05A1nbiPjkLYsjnU7rHW5oWKG3LibXOrQWu0j7I5fmzbKamu7WCOfHIqWn9yHY2P3DI2Y+nIKRav4R87giB2S+/8bm2dlkCdjZNL4R+nI742uF6vWf2SHLsopAXg0oRnCcHfGa96VnwXS2IiEvpRq0I3JRIs3+AM9aSePuTnNl0oRy/K686c0IK2bzILsPdwe5OxAFAzPg0/zTWuMiFCC7XY89dg0R2UhJDvj68kciG8svHnfuinkadqiuMk+NNf4r+1Lqi933cRmbxKmP+D6lURUMR75Ek3QDtRaLMo5c+YnWIR16vrBlgUri01X6qh3FIapsouGhljKuEmxwovNofkBTOoz9YoccJGWpDWoC6/D+f1olQoVm82EiA0XZcIeFZlVjzirA3TmIMUZpylYDPY7Jx28em9M0TssAwpyDZjXm4BLYmBcco/4R0KzzB5i0NOJQu0F0cIlzDYMrdRHUiUW8EknVdm/NePPNlFi5Kz8rbbS77S/ITxzP2clkWHV+fh8+veXnEgq3M9509xEyREk+r77oFJ8y84MTK3eYY3Ugs6SZMluWR+iiJJZUwOvYHDf4V2rJr+OyPdcfevlg10aXUARpWwuWwwNMFtUKINWjMfo0c8ZXXRUMSHmEmL48sI1fDehjq7SriJu1vRuN2Q83DdjuEzoxVXkdlsF4K5Cq3c1ZBfp4o31YG0xZ8PJ9O3G+ZJITElmbuaqf9wtfhIIvVY3J6nCwSNscoH0aSdzeUPP7Mgu9bCb1AGFGkEd50haoa3rXjF4bF3MTauNbIPeYvwzOksooJAAA=</data>
+        <length>3240</length>
+        <position>1</position>
+        <sys_attachment display_value="Tunmid Brandmark only PNG@0.5x-8.png" sys_id="fbceb36247a3421072ff9889316d43db">fbceb36247a3421072ff9889316d43db</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 17:05:32</sys_created_on>
+        <sys_id>bfceb36247a3421072ff9889316d43db</sys_id>
+    </sys_attachment_doc>
+</record_update>

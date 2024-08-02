@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b37c40fa47e3421072ff9889316d43ae" label="Clients Order" max_length="40" name="x_1233104_client_0_clients_order" type="collection">
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice/>
+        </element>
+        <element label="Client" max_length="80" name="client" type="field_name"/>
+    </element>
+</database>
